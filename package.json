@@ -1,0 +1,26 @@
+{
+  "name": "common-symbols",
+  "version": "1.0.0",
+  "description": "A collection of common symbols which projects can implement and consume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kizerkizer/common-symbols.git"
+  },
+  "keywords": [
+    "symbol",
+    "list",
+    "common",
+    "symbols",
+    "es6"
+  ],
+  "author": "Alex Kizer <the.alex.kizer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kizerkizer/common-symbols/issues"
+  },
+  "homepage": "https://github.com/kizerkizer/common-symbols#readme"
+}
